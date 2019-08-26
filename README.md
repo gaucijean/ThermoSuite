@@ -11,18 +11,18 @@ The data was analysed using Principal Component Analysis (PCA) to determine and 
 
 The videos of the reconstructed data explain the reconstructuions as follows: 
 
-Video 1 - Original video for dynamic thermal acquisition of static leather ball
-Video 2 - Reconstruction of data without component describing change in background temperature
-Video 3 - Reconstruction of data without component describing process of 
-Video 4 - Reconstruction of first principal component only
-Video 5 - Reconstruction of second principal component only
-Video 6 - Reconstruction of third principal component only
+Video 1 - Original video for dynamic thermal acquisition of static leather ball.
+Video 2 - Reconstruction of data without component describing change in background temperature.
+Video 3 - Reconstruction of data without component describing process of warming of ball surface representative of physiological process. 
+Video 4 - Reconstruction of first principal component only.
+Video 5 - Reconstruction of second principal component only.
+Video 6 - Reconstruction of third principal component only.
 
-Video 7 - Original video for dynamic thermal acquisition of human participant
-Video 2 - Reconstruction of data without component describing change in background temperature
-Video 3 - Reconstruction of data without component describing process of 
-Video 4 - Reconstruction of first principal component only
-Video 5 - Reconstruction of second principal component only
-Video 6 - Reconstruction of third principal component only
+Video 7 - Original video for dynamic thermal acquisition of human participant.
+Video 8 - Reconstruction of data without component describing change in background temperature.
+Video 9 - Reconstruction of data without component describing physiological process.
+Video 10 - Reconstruction of first principal component only.
+Video 11 - Reconstruction of second principal component only.
+Video 12 - Reconstruction of third principal component only.
 
 [1] J. Gauci, K. Camilleri, O. Falzon, "Decomposition Techniques for Better Analysis of Dynamic Thermal Data"
