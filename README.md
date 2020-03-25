@@ -17,10 +17,10 @@ Figure 1 and Figure 2 in Figures folder respectively as well as the manuscript.
 
 Available data: 
 
-Manuscript Figures - Manuscript figures published in [1].
-Subjects Data - Physiological and categorical data of the participants acquired for the study.
-Control 01 - Thermal data of static leather ball presented in [1]. 
-Subject XX - Thermal data of plantar aspect of human feet. Subject 01 (Left) presented in [1]. 
+- Manuscript Figures - Manuscript figures published in [1].
+- Subjects Data - Physiological and categorical data of the participants acquired for the study.
+- Control 01 - Thermal data of static leather ball presented in [1]. 
+- Subject XX - Thermal data of plantar aspect of human feet. Subject 01 (Left) presented in [1]. 
 
 For each of Control 01 and Subject XX subfolders a number of videos are present: 
  - Components - Plot of principal components (Top) together with the corresponding weights matrix (Bottom) and percentage of variance explained.
